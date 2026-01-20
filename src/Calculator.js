@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
-import clickSound from "./ClickSound.m4a";
+const clickSound = "/ClickSound.m4a";
 
 function Calculator({ workouts, allowSound }) {
   const [number, setNumber] = useState(workouts.at(0).numExercises);
