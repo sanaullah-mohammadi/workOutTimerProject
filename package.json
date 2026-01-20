@@ -35,11 +35,12 @@
       "last 1 safari version"
     ]
   },
-  "resolutions": {
+  "overrides": {
     "svgo": "^2.8.0",
     "rollup-plugin-terser": "@rollup/plugin-terser",
     "sourcemap-codec": "@jridgewell/sourcemap-codec",
     "w3c-hr-time": "^1.0.2",
     "stable": "^0.1.8"
   }
+}
 }
