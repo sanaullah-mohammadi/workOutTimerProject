@@ -130,3 +130,5 @@ function Calculator({ workouts, allowSound }) {
   );
 }
 export default Calculator;
+
+
